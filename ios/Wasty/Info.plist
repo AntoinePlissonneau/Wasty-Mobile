@@ -34,6 +34,10 @@
       <string>UIInterfaceOrientationLandscapeLeft</string>
       <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <true />
+    <key>NSCameraUsageDescription</key>
+    <true />
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <false/>
     <key>NSLocationWhenInUseUsageDescription</key>
@@ -65,6 +69,15 @@
       <string>Nunito-Regular.ttf</string>
       <string>Nunito-SemiBold.ttf</string>
       <string>Nunito-SemiBoldItalic.ttf</string>
+      <string>Entypo.ttf</string>
+      <string>EvilIcons.ttf</string>
+      <string>FontAwesome.ttf</string>
+      <string>Foundation.ttf</string>
+      <string>Ionicons.ttf</string>
+      <string>MaterialIcons.ttf</string>
+      <string>Octicons.ttf</string>
+      <string>SimpleLineIcons.ttf</string>
+      <string>Zocial.ttf</string>
     </array>
   </dict>
 </plist>
